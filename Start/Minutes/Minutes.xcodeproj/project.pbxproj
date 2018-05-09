@@ -407,7 +407,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.patridgedev.Minutes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4b44f7b8-4e4f-4793-a7be-12c5298225e0";
+				PROVISIONING_PROFILE = "ed83b5de-d347-4eb7-a55d-a27a19b3eac0";
 				PROVISIONING_PROFILE_SPECIFIER = MinutesProfile;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
